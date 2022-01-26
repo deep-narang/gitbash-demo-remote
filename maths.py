@@ -4,7 +4,7 @@ def add(x,y):
 
 #sub fn
 def substract(x,y):
-    pass
+    return x-y
 
 #mul fn
 def multiply(x,y):
