@@ -12,4 +12,4 @@ def multiply(x,y):
 
 #div fn
 def divide(x,y):
-    pass
+    return x/y  #from main
