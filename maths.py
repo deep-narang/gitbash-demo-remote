@@ -4,11 +4,12 @@ def add(x,y):
 
 #sub fn
 def substract(x,y):
-    return x-y
+    return x-y  #from remote 
+
 
 #mul fn
 def multiply(x,y):
-    pass
+    return x*y
 
 #div fn
 def divide(x,y):
