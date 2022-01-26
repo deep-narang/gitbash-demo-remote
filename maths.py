@@ -12,4 +12,5 @@ def multiply(x,y):
 
 #div fn
 def divide(x,y):
-    return x/y  #from main
+    return x//y 	#from local
+
