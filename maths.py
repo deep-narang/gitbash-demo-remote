@@ -8,7 +8,7 @@ def substract(x,y):
 
 #mul fn
 def multiply(x,y):
-    pass
+    return x*y
 
 #div fn
 def divide(x,y):
